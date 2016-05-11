@@ -1,0 +1,4 @@
+ phan tu lon nhat trong : 56
+ phan tu nho nhat trong :1
+ tong cac phan tu trong ma tran179
+ danh sach so nguyen to : 1	2	3	5	7	11	13	
